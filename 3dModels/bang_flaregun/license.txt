@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bang Flaregun
+* source:	https://sketchfab.com/3d-models/bang-flaregun-f135f0e927ae4661b7cf1b6d95872496
+* author:	Jamie McFarlane (https://sketchfab.com/jamiemcfarlane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bang Flaregun" (https://sketchfab.com/3d-models/bang-flaregun-f135f0e927ae4661b7cf1b6d95872496) by Jamie McFarlane (https://sketchfab.com/jamiemcfarlane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

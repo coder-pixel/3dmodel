@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yamaha 500 custom motorbike
+* source:	https://sketchfab.com/3d-models/yamaha-500-custom-motorbike-48919202c90e4a4096714eaadf6769a3
+* author:	Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yamaha 500 custom motorbike" (https://sketchfab.com/3d-models/yamaha-500-custom-motorbike-48919202c90e4a4096714eaadf6769a3) by Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
